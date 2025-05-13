@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: springboot-app
-        image: spoorthibk/s:latest  # Replace with your Docker image
+        image: spoorthibk/saaaaa  # Replace with your Docker image
         ports:
         - containerPort: 8085
         env:
