@@ -10,4 +10,4 @@ spec:
     - protocol: TCP
       port: 8085         # Port inside the cluster
       targetPort: 8085   # Port in your container
-      nodePort: 30085    # Port exposed on the EC2 public IP (between 30000-32767)
+      nodePort: 30086    # Port exposed on the EC2 public IP (between 30000-32767)
